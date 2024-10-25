@@ -1,0 +1,9 @@
+ATOM      1  N   ALA A   1      -9.229 -14.861  -5.481                  PROT N
+ATOM      2  HT1 ALA A   1     -10.048 -15.427  -5.569                  PROT  
+ATOM      3  HT2 ALA A   1      -9.488 -13.913  -5.295  0.00  0.00      PROT  
+ATOM      4  HT3 ALA A   1      -8.652 -15.208  -4.741  0.00  0.00      PROT  
+ATOM      5  CA  ALA A   1      -8.483 -14.912  -6.726  1.00  0.00      PROT C
+ATOM      6  HA  ALA A   1      -8.185 -15.947  -6.894  1.00  0.00      PROT H
+ATOM      7  CB  CYS A   1      -9.383 -14.465  -7.880  1.00  0.00      PROT C
+ATOM      8  HB1 CYS A   1     -10.428 -14.602  -7.600  1.00  0.00      PROT H
+ATOM      9  HB2 CYS A   1      -9.200 -13.413  -8.098  1.00  0.00      PROT H
